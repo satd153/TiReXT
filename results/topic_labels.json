@@ -1,0 +1,10 @@
+{
+  "_note": "Correct output category per message type, labelled by reading each type's message definition in the bags. conti_radar/radar_img is a per-detection list (id, range[], azimuth[], VrelRad[], RCS[], SNR[] ...) with no pixel payload, so it is tabular, not an image.",
+  "sensor_msgs/Image": "image",
+  "sensor_msgs/Imu": "tabular",
+  "nav_msgs/Odometry": "tabular",
+  "novatel_oem7_msgs/INSPVA": "tabular",
+  "sensor_msgs/PointCloud2": "pointcloud",
+  "conti_radar/radar_img": "tabular",
+  "conti_radar/radar_obj": "tabular"
+}

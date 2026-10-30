@@ -1,0 +1,47 @@
+{
+  "bags": 2642,
+  "total_tb": 13.39,
+  "generation_counts": {
+    "ros1": 2640,
+    "unknown": 2
+  },
+  "detect_latency_ms_median": 8.116,
+  "detect_latency_ms_p99": 30.172,
+  "detect_latency_ms_max": 47.793,
+  "cities": [
+    "Agra",
+    "Damage",
+    "Dasuya",
+    "Delhi",
+    "Faridabad",
+    "Gurgram",
+    "Gurudaspur",
+    "Gwalior",
+    "Indore_Aftnoon",
+    "Kaithal",
+    "Patiala",
+    "indore_outside",
+    "kota-Rajasthan",
+    "kota_out"
+  ],
+  "topic_type_pairs": 14,
+  "resolved_by_tier": {
+    "tier1": 11,
+    "tier2": 1,
+    "tier3": 2
+  },
+  "resolved_by_tier_pct": {
+    "tier1": 78.6,
+    "tier2": 7.1,
+    "tier3": 14.3
+  },
+  "labelled_pairs": 14,
+  "correct": 14,
+  "misclassified": [],
+  "correct_without_keyword_verification": 13,
+  "resolved_by_tier_pct_topic_instances": {
+    "tier1": 78.8,
+    "tier2": 7.9,
+    "tier3": 13.3
+  }
+}

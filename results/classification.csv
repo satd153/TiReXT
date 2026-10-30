@@ -1,0 +1,15 @@
+topic,msg_type,n_bags,tier1,tier2,tier3,resolved_tier,category,label,correct,unverified_keyword_category,unverified_correct
+/Navtech/Polar,sensor_msgs/Image,828,image,image,image,1,image,image,True,image,True
+/camera1_images,sensor_msgs/Image,2623,image,image,image,1,image,image,True,image,True
+/camera2_images,sensor_msgs/Image,2610,image,image,image,1,image,image,True,image,True
+/camera3_images,sensor_msgs/Image,2624,image,image,image,1,image,image,True,image,True
+/camera4_images,sensor_msgs/Image,2566,image,image,image,1,image,image,True,image,True
+/camera5_images,sensor_msgs/Image,2622,image,image,image,1,image,image,True,image,True
+/camera6_images,sensor_msgs/Image,2603,image,image,image,1,image,image,True,image,True
+/gps/imu,sensor_msgs/Imu,2634,tabular,tabular,tabular,1,tabular,tabular,True,tabular,True
+/imu/data_raw,sensor_msgs/Imu,2634,tabular,tabular,tabular,1,tabular,tabular,True,tabular,True
+/novatel/oem7/inspva,novatel_oem7_msgs/INSPVA,2634,,tabular,hierarchical,2,tabular,tabular,True,tabular,True
+/novatel/oem7/odom,nav_msgs/Odometry,2631,tabular,tabular,tabular,1,tabular,tabular,True,tabular,True
+/radar_img,conti_radar/radar_img,1989,,image,tabular,3,tabular,tabular,True,image,False
+/radar_obj,conti_radar/radar_obj,2442,,,tabular,3,tabular,tabular,True,tabular,True
+/rslidar_points,sensor_msgs/PointCloud2,1860,pointcloud,pointcloud,pointcloud,1,pointcloud,pointcloud,True,pointcloud,True

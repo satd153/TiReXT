@@ -1,0 +1,40 @@
+TiReXT (Ti-ReXt: ROS Extraction GUI tool) - Software Licence
+
+Copyright (c) 2026 TiHAN IITH (NMICPS TiHAN Foundation, IIT Hyderabad).
+All rights reserved.
+
+Authors: Prof. Rajalakshmi Pachamuthu, Mr. Saurabh Dubey.
+Copyright registration for this work has been applied for.
+
+1. Grant. TiHAN IITH grants you a free, non-exclusive, non-transferable
+   licence to install and use the TiReXT software packages published in this
+   repository ("the Software"), in unmodified form, for research,
+   educational and evaluation purposes.
+
+2. Restrictions. Except with the prior written permission of TiHAN IITH,
+   you may not:
+   (a) copy, redistribute, sell, rent, lease or sublicense the Software;
+   (b) modify, adapt or create derivative works of the Software;
+   (c) decompile, disassemble or otherwise reverse engineer the Software,
+       except to the extent that applicable law expressly permits it;
+   (d) use the Software in a commercial product or service.
+
+3. Data. Output produced by the Software from your own recordings belongs to
+   you. TiHAN IITH claims no rights in your data.
+
+4. Citation. If you use the Software in published work, please cite the
+   accompanying paper listed in the README.
+
+5. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
+   NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+   OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+   USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. Termination. This licence ends automatically if you breach its terms; you
+   must then delete all copies of the Software.
+
+For permissions and licensing enquiries, contact the TiHAN IPR office:
+ipr@tihaniith.in
